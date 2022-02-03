@@ -1,8 +1,8 @@
 <div>
   <h1 align="center">Hi, I'm Miguel, a self-taught and <a href="https://www.linkedin.com/in/miguel-angel-ochoa-rivera-547750208/"><i>Web Developer</i></a> 😃️</h1>
   <p align="center">I am a web development professional with a strong focus on the MERN stack you can visit my profile</a> <a href=""><i>Linkedin</i></a><span> 👉🏽️</span>
-  <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+  <a align="rigth"  href="" target="_blank">
+    <img width="10%" align="center" valign="middle" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white  " target="_blank" />
   </a><br>
   <p align="center">Self-taught, I would like to be able to give value to your ideas we begin! 😉️</h2>
 </div>
@@ -45,14 +45,14 @@
    <a href="https://www.facebook.com/profile.php?id=100068604824809" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>   
 
 </div>
+<!-- 
+<div align="center"> -->
+  
+<!--   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) -->
+  
+<!-- </div> -->
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p></p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> </p>
 </div>
